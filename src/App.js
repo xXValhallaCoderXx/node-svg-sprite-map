@@ -1,4 +1,3 @@
-import "./App.css";
 import SvgWrapper from "./SvgWrapper";
 function App() {
   return (
